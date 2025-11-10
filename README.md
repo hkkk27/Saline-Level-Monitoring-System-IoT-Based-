@@ -44,7 +44,7 @@ Traditional saline monitoring requires constant human supervision, which can lea
 2. The HX711 amplifier converts weight data for the microcontroller.  
 3. The ESP module processes the input and checks the threshold.  
 4. When the saline level reaches the minimum limit, an alert is triggered.  
-5. (Optional) Data is stored or sent to a dashboard/mobile notification system.  
+5. Data is stored or sent to a dashboard/mobile notification system.  
 
 ---
 
