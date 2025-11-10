@@ -1,6 +1,3 @@
-## ✅ **READY-TO-USE GITHUB README (No Edits Needed)**
-
-````md
 # Saline Level Monitoring System (IoT-Based)
 
 An IoT-based smart saline monitoring system designed to continuously measure saline (IV fluid) levels and send automated alerts to prevent backflow and ensure patient safety. The system aims to replace manual monitoring in hospitals with a more reliable, real-time solution.
@@ -70,7 +67,6 @@ Traditional saline monitoring requires constant human supervision, which can lea
 
 ```md
 ![Circuit Diagram](./Documentation/Images/circuit_diagram.png)
-````
 
 ---
 
