@@ -66,7 +66,7 @@ Traditional saline monitoring requires constant human supervision, which can lea
 (Add your circuit diagram image inside `/Documentation/Images` and embed it here)
 
 
-![Circuit Diagram](./Documentation/Images/circuit_diagram.png)
+![Circuit Diagram](./Documentation/Images/circuit_diagram.jpg)
 
 ---
 
@@ -105,16 +105,8 @@ Saline-Level-Monitoring-IoT/
 │
 ├── Documentation/
 │   ├── Project_Report.pdf
-│   ├── Presentation.pdf
-│   ├── References.md
 │   └── Images/
-│       ├── block_diagram.png
-│       ├── flowchart.png
-│       └── circuit_diagram.png
-│
-├── Data_Logs/
-│   └── sample_water_level_log.csv
-│
+│       └── circuit_diagram.jpg
 ├── LICENSE
 ├── README.md
 └── .gitignore
