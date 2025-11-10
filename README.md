@@ -65,7 +65,7 @@ Traditional saline monitoring requires constant human supervision, which can lea
 
 (Add your circuit diagram image inside `/Documentation/Images` and embed it here)
 
-```md
+
 ![Circuit Diagram](./Documentation/Images/circuit_diagram.png)
 
 ---
